@@ -1,5 +1,7 @@
 # NiceRGBLight
 
+<img src="./resources/NiceRGBLight.jpg" alt="PCB BOARD" width="400">
+
 # 5V ARGB Dual Strip Controller (Arduino)
 
 Minimalistic and reliable controller for **5V 3-pin ARGB (addressable RGB)** LED strips using Arduino.
